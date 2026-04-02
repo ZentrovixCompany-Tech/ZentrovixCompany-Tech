@@ -1,5 +1,5 @@
 ## Hi there 👋
-   this is Zentrovix. We’re a tech company that builds mobile apps, games, and websites to solve real-world problems. We work with clients and partners while also developing our own products to improve our skills and deliver better solutions.
+   this is TitanCode Technologies. We’re a tech company that builds mobile apps, games, and websites to solve real-world problems. We work with clients and partners while also developing our own products to improve our skills and deliver better solutions.
 
 - 🔭 We’re currently working on building mobile apps, games, and scalable websites, while delivering custom solutions that solve real client problems.
  
@@ -17,11 +17,11 @@
 
 - ⚡ Fun fact: We operate 24/7 and build both client products and our own revenue-generating platforms.
 
--🤚 intrested in zentrovix company: use the Url to join Zentrovix community now [https://chat.whatsapp.com/IbE98SSLFASDljg3Dhc5Ec]
+-🤚 intrested in TitanCode company: use the Url to join TitanCode Technologies community now [https://chat.whatsapp.com/IbE98SSLFASDljg3Dhc5Ec]
 
 
 <!--
-**ZentrovixCompany-Tech/ZentrovixCompany-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TitanCodeCompany-Tech/TitanCodeCompany-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
