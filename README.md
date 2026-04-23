@@ -1,5 +1,5 @@
 ## Hi there 👋
-   this is TitanCode Technologies. We’re a tech company that builds mobile apps, games, and websites to solve real-world problems. We work with clients and partners while also developing our own products to improve our skills and deliver better solutions.
+   This is TitanCode Technologies. We’re a tech company that builds mobile apps, games, and websites to solve real-world problems. We work with clients and partners while also developing our own products to improve our skills and deliver better solutions.
 
 - 🔭 We’re currently working on building mobile apps, games, and scalable websites, while delivering custom solutions that solve real client problems.
  
